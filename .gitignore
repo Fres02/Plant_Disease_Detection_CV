@@ -1,5 +1,7 @@
 # Dataset folders
 PlantDiseasesDataset/
+PlantDiseasesDataset_Split/
+PlantDiseasesDataset_Backup/
 datasets/
 data/
 *.zip
