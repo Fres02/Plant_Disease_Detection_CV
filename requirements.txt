@@ -1,9 +1,6 @@
-# Plant Leaf Disease Detection - Requirements
-# Install with: pip install -r requirements.txt
-
-# Deep Learning Framework
-tensorflow>=2.12.0
-keras>=2.12.0
+# Deep Learning Framework (GPU-enabled)
+tensorflow[and-cuda]>=2.13.0
+keras>=2.13.0
 
 # Image Processing & Computer Vision
 opencv-python>=4.8.0
