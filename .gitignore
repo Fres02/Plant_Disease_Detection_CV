@@ -2,6 +2,7 @@
 PlantDiseasesDataset/
 PlantDiseasesDataset_Split/
 PlantDiseasesDataset_Backup/
+ModelWeights/
 datasets/
 data/
 *.zip
